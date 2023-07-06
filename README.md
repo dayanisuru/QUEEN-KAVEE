@@ -1,10 +1,10 @@
-# 💝 QUEEN HENTAI 💝
+# 💝 QUEEN KAVEE 💝
 
 <p align="center">
- <a href="#"><img title="QUEEN HENTAI" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="QUEEN KAVEE" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/dinuwah"><img title="Author" src="https://img.shields.io/badge/CREATOR-Dinuwa Official²⁰²³-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/dayanisuruh"><img title="Author" src="https://img.shields.io/badge/CREATOR-dayanisuru Official²⁰²³-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
@@ -20,17 +20,17 @@
 <a 
 
 ####  
-QUEEN HENTAI Multi Device Whatsapp Bot.
+QUEEN KAVEE Multi Device Whatsapp Bot.
 
 ***
 
 
 
-1. 🇱🇰 Fork Queen Hentai Git 🇱🇰
+1. 🇱🇰 Fork QUEEN KAVEE Git 🇱🇰
     <br>
-<a href='https://github.com/dinuwah/QUEEN-HENTAI' target="_blank"><img alt='💝Fork Repo💝' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+<a href='https://github.com/dayanisuruQUEEN-KAVEE' target="_blank"><img alt='💝Fork Repo💝' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
-2. Scan The QR And Upload dinuwa.data.json To Your Fork (Will Recieve It On Your Bot Number After Scanning)
+2. Scan The QR And Upload dayanisuru.data.json To Your Fork (Will Recieve It On Your Bot Number After Scanning)
     <br>
 <a href='https://replit.com/@kafodip563/QUEEN-HENTAI-QR-CODE-GENERATOR?v=1' target="_blank"><img alt='💝SCAN QR💝' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
@@ -47,7 +47,7 @@ QUEEN HENTAI Multi Device Whatsapp Bot.
 
 ## ```HEROKU DEPLOYMENT```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dinuwah/QUEEN-HENTAI)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dayanisuruQUEEN-KAVEE)
 ---------
 
 ## ```HEROKU TUTORIAL```
@@ -80,7 +80,7 @@ QUEEN HENTAI Multi Device Whatsapp Bot.
 [![Deploy on COOLIFY](https://img.shields.io/badge/coolify%20Account-yellow?style=for-the-badge&logo=coolify)](http://65.21.52.72:3000/register)  
 
 ## ```DEPLOY IN REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/dinuwah/QUEEN-HENTAI)](https://replit.com)
+[![Run on Repl.it](https://repl.it/badge/github/dayanisuruQUEEN-KAVEE)](https://replit.com)
 
 ## ```DEPLOY IN MOGENIUS```
 [![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
