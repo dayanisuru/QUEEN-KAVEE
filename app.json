@@ -1,9 +1,9 @@
 {
-  "name": "QUEEN HENTAI",
+  "name": "QUEEN KAVEE",
   "description": "Customizable WhatsApp Bot",
-  "repository": "https://github.com/dinuwah/QUEEN-HENTAI",
+  "repository": "https://github.com/dayanisuruQUEEN-KAVEE",
   "logo": "https://i.ibb.co/T1DqdYz/thumbnail.jpg",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot", "QUEEN HENTAI", "GURU-bot-md", "GURU-bot"],
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "QUEEN KAVEE", "GURU-bot-md", "GURU-bot"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
