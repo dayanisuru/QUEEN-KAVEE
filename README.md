@@ -1,5 +1,9 @@
 # 💝 QUEEN KAVEE 💝
+Heroku Deployment Method
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/dayanisuru/Dark-Nero-Bot-MD&template=https://github.com/dayanisuru/Dark-Nero-Bot-MD.git)
 
+## Replit Deployment Method
+[![Deploy on Replit](https://repl.it/badge/github/quiec/
 <p align="center">
  <a href="#"><img title="QUEEN KAVEE" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
